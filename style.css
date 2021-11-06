@@ -1,0 +1,91 @@
+body{
+background-color: #E5E5E5;
+}
+
+.container1 img{
+	border-radius: 12px;
+	width: 643px;
+	height: 235px;
+	top: 810px;
+	Left: 108px;
+	Radius: 12px;
+	Blend:  pass through;
+	margin: 5px
+}
+
+
+
+a {
+  text-decoration: none;
+  color: #4059AD;
+  font-weight: bold;
+  padding: 0px 40px;
+  color: white;
+  font-family: 'Lato', sans-serif;
+}
+a:hover {
+color: #FFEBBF;
+}
+
+.map img{
+position: absolute;
+width: 515px;
+height: 620px;
+left: 720px;
+top: 15px;
+}
+
+.pub img{
+position: absolute;
+width: 515px;
+height: 370px;
+left: 720px;
+top: 685px;
+ }
+
+.btn-green {
+	background-color:#048434 ;
+	padding: 4px 30px;
+	border-radius: 9px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Lato', sans-serif;
+}
+
+h2 {
+position: absolute;
+width: 786px;
+height: 48px;
+left: 10px;
+top: 1100px;
+
+font-family: Lato;
+font-style: normal;
+font-weight: bold;
+font-size: 40px;
+line-height: 48px;
+color: #048434;
+}
+
+.btn-orange {
+	background-color:#F9AB05 ;
+	padding: 4px 30px;
+	border-radius: 9px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Lato', sans-serif;
+}
+
+.img-sport {
+	display: inline;
+	padding: 15px;
+}
+.img-sport img{
+	position: absolute;
+	width: 375px;
+	height: 190px;
+	left: 108px;
+	top: 1410px;
+}
+
+
